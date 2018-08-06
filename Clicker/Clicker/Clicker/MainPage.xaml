@@ -14,7 +14,7 @@
         HorizontalOptions="Center" VerticalOptions="CenterAndExpand"
         />
 
-        <Label Text="Я Программист, а это мои изменения в гите" 
+        <Label Text="Игорь не прав, ибо пошел учить яву" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
