@@ -6,7 +6,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-    	<Label Text="Я Программист" 
+    	<Label Text="Я Программист, а это мои изменения в гите" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
